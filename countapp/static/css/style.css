@@ -84,6 +84,7 @@ body{
 }
 
 .home .form .input form input{
+    background-color:transparent;
     font-size:14px;
     border:none;
     padding: 2px 20px;
@@ -95,8 +96,8 @@ body{
 
 .home .form .input form input:hover{
     transition: .5s;
-    color: #fff;
-    background:black;
+    color: #ddd;
+    background:black !important;
     border-radius: 10px;
 }
 
